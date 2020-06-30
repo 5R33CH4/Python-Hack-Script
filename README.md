@@ -21,5 +21,10 @@ Windows Python Aimassist and Wall-Hack for Counter Strike : Global Offensive [St
 * open csgo
 * [WINDOWS] python PythonScript_CSGO.py or py PythonScript_CSGO.py
 
+# Keybinds
+'     h           -      to toggle Aimbot' <br>
+'     q           -      to toggle TriggerBot' <br>
+'     /           -      to EXIT Cheat' <br>
+
 # Status
-UNDETECTED   [As on 9th May 2020]
+UNDETECTED   [As on 30th June 2020]
